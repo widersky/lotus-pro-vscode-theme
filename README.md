@@ -6,4 +6,5 @@ Fully handcrafted theme ported from Nova editor. The idea was to create theme th
 
 - [ ] Dark version (WIP)
 - [ ] Light version
-- [ ] Icon theme
+- [ ] Files icon theme
+- [ ] Product icon theme
