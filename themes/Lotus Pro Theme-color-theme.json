@@ -12,25 +12,32 @@
 		// Titlebar
 		"titleBar.activeBackground": "#1C1C1C",
 		"titleBar.border": "#0D0D0D",
+		"editorGroupHeader.tabsBackground": "#161616",
+		"editorGroupHeader.border": "#262626",
+		
+		// Command Center
+		"commandCenter.background": "#1C1C1C",
+		"commandCenter.foreground": "#B0B0B0",
+		"commandCenter.inactiveBorder": "#262626",
+		"commandCenter.border": "#262626",
 
 		// Editor Tabs
-		// "tab.activeBorder": "#262626",
 		"tab.activeBorderTop": "#B29DB5",
+		"tab.activeBorder": "#1C1C1C",
 		"tab.inactiveBackground": "#161616",
-		"editorGroupHeader.tabsBackground": "#161616",
 
 		// Breadcrumbs
 		"breadcrumb.background": "#ff0000",
 
 		// Activity Bar
 		"activityBarBadge.background": "#161616",
-		"activityBar.background": "#1C1C1C",
-		"activityBar.activeBackground": "#161616",
+		"activityBar.background": "#161616",
+		"activityBar.activeBackground": "#ff000000",
 		"activityBar.border": "#262626",
-		"activityBar.foreground": "#B0B0B0",
+		"activityBar.foreground": "#B29DB5",
 		"activityBar.activeBorder": "#B29DB5",
 
-		// VSCode Sidebar
+		// Sidebar
 		"sideBarTitle.foreground": "#B0B0B0",
 		"sideBar.background": "#161616",
 		"sideBar.border": "#262626",
