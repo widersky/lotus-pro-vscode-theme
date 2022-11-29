@@ -1,0 +1,21 @@
+{
+  "name": "lotus-pro",
+  "displayName": "Lotus Pro",
+  "description": "Fully handcrafted theme dedicated for Nova editor. The idea was to create theme that'll be easy for the eyes. The theme includes several base pastel colors that reference the lotus flower.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lotus Pro Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lotus Pro Theme-color-theme.json"
+      }
+    ]
+  }
+}
