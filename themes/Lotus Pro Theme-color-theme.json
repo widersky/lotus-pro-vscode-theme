@@ -1,10 +1,44 @@
 {
 	"name": "Lotus Pro Theme",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+
+		// Editor
+		"editor.background": "#1C1C1C",
+		"editor.foreground": "#B0B0B0",
+		"editor.selectionBackground": "#333233",
+		"editor.lineHighlightBorder": "#ffff0000",
+		"editor.lineHighlightBackground": "#262526",
+
+		// Titlebar
+		"titleBar.activeBackground": "#1C1C1C",
+		"titleBar.border": "#0D0D0D",
+
+		// Editor Tabs
+		// "tab.activeBorder": "#262626",
+		"tab.activeBorderTop": "#B29DB5",
+		"tab.inactiveBackground": "#161616",
+		"editorGroupHeader.tabsBackground": "#161616",
+
+		// Breadcrumbs
+		"breadcrumb.background": "#ff0000",
+
+		// Activity Bar
+		"activityBarBadge.background": "#161616",
+		"activityBar.background": "#1C1C1C",
+		"activityBar.activeBackground": "#161616",
+		"activityBar.border": "#262626",
+		"activityBar.foreground": "#B0B0B0",
+		"activityBar.activeBorder": "#B29DB5",
+
+		// VSCode Sidebar
+		"sideBarTitle.foreground": "#B0B0B0",
+		"sideBar.background": "#161616",
+		"sideBar.border": "#262626",
+
+		// Status Bar
+		"statusBar.background": "#1C1C1C",
+		"statusBar.border": "#262626",
+		"statusBar.foreground": "#B0B0B0"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +49,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#695453"
 			}
 		},
 		{
